@@ -1,0 +1,5 @@
+/Users/edouard/Projects/XAMARIN/TriRapide-VersionSequentielle/TriRapide-VersionSequentielle/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/edouard/Projects/XAMARIN/TriRapide-VersionSequentielle/TriRapide-VersionSequentielle/bin/Debug/TriRapide-VersionSequentielle.exe.mdb
+/Users/edouard/Projects/XAMARIN/TriRapide-VersionSequentielle/TriRapide-VersionSequentielle/bin/Debug/TriRapide-VersionSequentielle.exe
+/Users/edouard/Projects/XAMARIN/TriRapide-VersionSequentielle/TriRapide-VersionSequentielle/obj/x86/Debug/TriRapide-VersionSequentielle.exe
+/Users/edouard/Projects/XAMARIN/TriRapide-VersionSequentielle/TriRapide-VersionSequentielle/obj/x86/Debug/TriRapide-VersionSequentielle.exe.mdb

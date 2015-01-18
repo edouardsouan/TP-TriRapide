@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="TriRapide-MultiThreadsV2/TriRapide-MultiThreadsV2.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TriRapide-MultiThreadsV2/Program.cs">
+    <Files>
+      <File FileName="TriRapide-MultiThreadsV2/Program.cs" Line="24" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/edouard/Projects/XAMARIN/TriRapide-MultiThreadsV2/TriRapide-MultiThreadsV2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/edouard/Projects/XAMARIN/TriRapide-MultiThreadsV2/TriRapide-MultiThreadsV2/bin/Debug/TriRapide-MultiThreadsV2.exe.mdb
+/Users/edouard/Projects/XAMARIN/TriRapide-MultiThreadsV2/TriRapide-MultiThreadsV2/bin/Debug/TriRapide-MultiThreadsV2.exe
+/Users/edouard/Projects/XAMARIN/TriRapide-MultiThreadsV2/TriRapide-MultiThreadsV2/obj/x86/Debug/TriRapide-MultiThreadsV2.exe
+/Users/edouard/Projects/XAMARIN/TriRapide-MultiThreadsV2/TriRapide-MultiThreadsV2/obj/x86/Debug/TriRapide-MultiThreadsV2.exe.mdb
